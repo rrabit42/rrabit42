@@ -15,7 +15,7 @@
 * [Malware with SKYCLOSET](https://github.com/rrabit42/Malware_Project_Skycloset) in ```2019.12```
 * [TCP/IP Socket in linux](https://github.com/rrabit42/practice_TCP-IP-soket-programming) in ```2019.9```
 
-### DJango API
+### Django API
 * [Django todo list with api](https://github.com/rrabit42/Django-todo-list-web) in ```2020.3```
 * [Django Rest API](https://github.com/rrabit42/Django-RESTfulAPI) in ```2020.3```
 
@@ -43,4 +43,11 @@
 * [remind Web](https://github.com/rrabit42/Web) in ```2020.1```
 
 #### etc  
+* EEE(🔒) in ```2021.1~🔥```
+* Hearo(🔒) in ```2020.1~2020.6```
+* [uftrace](https://github.com/kosslab-kr/uftrace) in``` 2019.9~2019.10```
+* Security Evangelist(🔒) in ```2019.8```
+* [Road Taster](https://github.com/RoadTaster/RoadTaster)(moved to 🔒) in ```2019.4~2019.6```
+* [JOBSSUL](https://github.com/pirogramming/JobSSUL) in ```2018.12~2019.2```  
+
 [![SY's github stats](https://github-readme-stats.vercel.app/api?username=rrabit42)](https://github.com/rrabit42/github-readme-stats)
