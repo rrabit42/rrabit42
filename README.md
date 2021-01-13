@@ -1,7 +1,7 @@
 ## Hi~ I'm Seo Young Kim!✨
 
 - 🔭 I’m currently working on 🎓```Graduation Project```.  
-- 🌱 I’m currently learning [Machine Learning](https://github.com/rrabit42/MachineLearning_practice) and [algorithm](https://github.com/rrabit42/study_algorithm).  
+- 🌱 I’m currently learning [Machine Learning](https://github.com/rrabit42/MachineLearning_practice), [GO](https://github.com/rrabit42/study_GO) and [algorithm](https://github.com/rrabit42/study_algorithm).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
 ## Repo⚡  
@@ -23,7 +23,7 @@
 * [Django](https://github.com/rrabit42/Django_practice) in ```2018.12```
 * [remind Django](https://github.com/rrabit42/Django_review) in ```2019.8```
 * [Django login](https://github.com/rrabit42/Hackaton_study) in ```2019.8```
-* [DJango with Azure, docker](https://github.com/rrabit42/Hackathon_azure) in ```2019.8```
+* [Django with Azure, docker](https://github.com/rrabit42/Hackathon_azure) in ```2019.8```
 
 #### Experience
 * [Spring](https://github.com/rrabit42/Spring_practice) in ```2020.12```
