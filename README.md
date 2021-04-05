@@ -43,7 +43,7 @@
 * [Data Structure](https://github.com/rrabit42/DataStructure) in ```2019.9```
 * [remind Web](https://github.com/rrabit42/Web) in ```2020.1```
 
-#### etc  
+### Project  
 * EEE(🔒) in ```2021.1~🔥```
 * Hearo(🔒) in ```2020.1~2020.6```
 * [uftrace](https://github.com/kosslab-kr/uftrace) in``` 2019.9~2019.10```
