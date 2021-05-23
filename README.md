@@ -4,18 +4,24 @@
 - 🌱 I’m currently learning [Machine Learning](https://github.com/rrabit42/MachineLearning_practice), [GO](https://github.com/rrabit42/study_GO) and [algorithm](https://github.com/rrabit42/study_algorithm).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
-## Repo⚡  
-- 👷 I tried to summarize what kind of study I did! ~~for me😆~~  
-- 💧 *I want to show my projects but most of them are private.*  
+## Projects🐾  
+💧 *I want to show my projects but most of them are private.*  
 
-### Project  
 * EEE(🔒) in ```2021.1~🔥```
-* [Seoul1ro](https://github.com/rrabit42/Seoul1ro) in ```2021.5.21~21```  
+* [Seoul1ro](https://github.com/rrabit42/Seoul1ro) in ```2021.5.21~23```  
 * Hearo(🔒) in ```2020.1~2020.6```
 * [uftrace](https://github.com/kosslab-kr/uftrace) in``` 2019.9~2019.10```
 * Security Evangelist(🔒) in ```2019.8```
 * [Road Taster](https://github.com/RoadTaster/RoadTaster)(moved to 🔒) in ```2019.4~2019.6```
 * [JOBSSUL](https://github.com/pirogramming/JobSSUL) in ```2018.12~2019.2```  
+
+[![SY's github stats](https://github-readme-stats.vercel.app/api?username=rrabit42)](https://github.com/rrabit42/github-readme-stats)  
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrabit42)](https://github.com/rrabit42/github-readme-stats)   -->
+
+
+## Repo⚡  
+👷 I tried to summarize what kind of study I did! ~~for me😆~~  
 
 ### Security  
 * [Study Security](https://github.com/rrabit42/study_security) ~ing🔥
@@ -51,5 +57,3 @@
 * [Java](https://github.com/rrabit42/Java-programming) in ```2019.3```
 * [Data Structure](https://github.com/rrabit42/DataStructure) in ```2019.9```
 * [remind Web](https://github.com/rrabit42/Web) in ```2020.1```
-
-[![SY's github stats](https://github-readme-stats.vercel.app/api?username=rrabit42)](https://github.com/rrabit42/github-readme-stats)
