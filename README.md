@@ -1,14 +1,15 @@
 ## Hi~ I'm Seo Young Kim!✨
 
-- 🔭 I’m currently working on 🎓```Graduation Project```.  
-- 🌱 I’m currently learning [Machine Learning](https://github.com/rrabit42/MachineLearning_practice), [GO](https://github.com/rrabit42/study_GO) and [algorithm](https://github.com/rrabit42/study_algorithm).  
+- 🔭 I’m currently working on 🎓```Graduation Project``` and 🔩```Fixing```&🔨```Refactoring```.  
+- 🌱 I’m currently learning [algorithm](https://github.com/rrabit42/study_algorithm).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
 ## Projects🐾  
 💧 *I want to show my projects but most of them are private.*  
 
-* EEE(🔒) in ```2021.1~🔥```
-* [Seoul1ro](https://github.com/rrabit42/Seoul1ro) in ```2021.5.21~23```  
+* [Ewha-Everytime-Everywhere](https://github.com/rrabit42/Cyber_Graduation_Project)(But entire code are in 🔒) in ```2021.1~🔥```  
+* [별다방](https://github.com/bominjang/Database_TeamProject) in ```2021.6```  
+* [Seoul1ro](https://github.com/rrabit42/Seoul1ro) in ```2021.5.21-23```  
 * Hearo(🔒) in ```2020.1~2020.6```
 * [uftrace](https://github.com/kosslab-kr/uftrace) in``` 2019.9~2019.10```
 * Security Evangelist(🔒) in ```2019.8```
@@ -51,9 +52,11 @@
 * [React2](https://github.com/rrabit42/React_practice2) in ```2019.5```
 
 #### Basic
+* [GO](https://github.com/rrabit42/study_GO) in in ```2021.2```
+* [Machine Learning/Deep Learning](https://github.com/rrabit42/MachineLearning_practice) in ```2021.3~2021.6```  
+* [remind Web](https://github.com/rrabit42/Web) in ```2020.1```  
+* [Data Structure](https://github.com/rrabit42/DataStructure) in ```2019.9```  
+* [Java](https://github.com/rrabit42/Java-programming) in ```2019.3```  
+* [C](https://github.com/rrabit42/C-programming) in ```2018.9```  
+* [Python](https://github.com/rrabit42/Python-Programming) in ```2018~```  
 * [HTML/CSS](https://github.com/rrabit42/HTML-CSS_practice) in ```2018.12```
-* [Python](https://github.com/rrabit42/Python-Programming) in ```2018~```
-* [C](https://github.com/rrabit42/C-programming) in ```2018.9```
-* [Java](https://github.com/rrabit42/Java-programming) in ```2019.3```
-* [Data Structure](https://github.com/rrabit42/DataStructure) in ```2019.9```
-* [remind Web](https://github.com/rrabit42/Web) in ```2020.1```
