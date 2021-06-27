@@ -1,7 +1,7 @@
 ## Hi~ I'm Seo Young Kim!✨
 
 - 🔭 I’m currently working on 🎓```Graduation Project``` and 🔩```Fixing```&🔨```Refactoring```.  
-- 🌱 I’m currently learning [algorithm](https://github.com/rrabit42/study_algorithm).  
+- 🌱 I’m currently learning [Algorithm](https://github.com/rrabit42/study_algorithm), [Spring](https://github.com/rrabit42/Spring_practice).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
 ## Projects🐾  
