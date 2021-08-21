@@ -7,6 +7,7 @@
 ## Projects🐾  
 💧 *I want to show my projects but most of them are private.*  
 
+* Fount Internship Projects(RA Engine etc.)(🔒) in ```2021.7~2021.8```
 * [Ewha-Everytime-Everywhere](https://github.com/rrabit42/Cyber_Graduation_Project)(But entire code are in 🔒) in ```2021.1~🔥```  
 * [별다방](https://github.com/bominjang/Database_TeamProject) in ```2021.6```  
 * [Seoul1ro](https://github.com/rrabit42/Seoul1ro) in ```2021.5.21-23```  
@@ -54,6 +55,7 @@
 #### Basic
 * [GO](https://github.com/rrabit42/study_GO) in in ```2021.2```
 * [Machine Learning/Deep Learning](https://github.com/rrabit42/MachineLearning_practice) in ```2021.3~2021.6```  
+* [Cloud Computing](https://github.com/rrabit42/Cloud-Computing)  in ```2020.9~2020.12```  
 * [remind Web](https://github.com/rrabit42/Web) in ```2020.1```  
 * [Data Structure](https://github.com/rrabit42/DataStructure) in ```2019.9```  
 * [Java](https://github.com/rrabit42/Java-programming) in ```2019.3```  
