@@ -1,14 +1,14 @@
 ## Hi~ I'm Seo Young Kim!✨
 
-- 🔭 I’m currently working on 🎓```Graduation Project``` and 🔩```Fixing```&🔨```Refactoring```.  
-- 🌱 I’m currently learning [Algorithm](https://github.com/rrabit42/study_algorithm), [Spring](https://github.com/rrabit42/Spring_practice).  
+- 🔭 I’m currently working on a 💰```Fintech SW internship```.  
+- 🌱 I’m currently learning [Algorithm](https://github.com/rrabit42/study_algorithm), [TIL](https://github.com/rrabit42/Today_I_learned).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
 ## Projects🐾  
 💧 *I want to show my projects but most of them are private.*  
 
 * Fount Internship Projects(RA Engine etc.)(🔒) in ```2021.7~2021.8```
-* [Ewha-Everytime-Everywhere](https://github.com/rrabit42/Cyber_Graduation_Project)(But entire code are in 🔒) in ```2021.1~🔥```  
+* [Ewha-Everytime-Everywhere](https://github.com/rrabit42/Cyber_Graduation_Project)(But entire code are in 🔒) in ```2021.1~2021.10```  
 * [별다방](https://github.com/bominjang/Database_TeamProject) in ```2021.6```  
 * [Seoul1ro](https://github.com/rrabit42/Seoul1ro) in ```2021.5.21-23```  
 * Hearo(🔒) in ```2020.1~2020.6```
