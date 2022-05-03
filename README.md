@@ -1,13 +1,13 @@
 ## Hi~ I'm Seo Young Kim!✨
 
 - 🔭 I’m currently studying 'Computer Science' in RWTH Aachen University :de:
-- 🌱 I’m currently learning [Algorithm](https://github.com/rrabit42/study_algorithm), [TIL](https://github.com/rrabit42/Today_I_learned).  
+- 🌱 I’m currently learning [Algorithm](https://github.com/rrabit42/study_algorithm)and [TIL](https://github.com/rrabit42/Today_I_learned).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
 ## Projects🐾  
 💧 *I want to show my projects but most of them are private.*  
 
-* Fount RA Projects as an Intern(🔒) in ```2021.9~2021.2```
+* Fount RA Projects as an Intern(🔒) in ```2021.9~2022.2```
 * Fount Internship Projects(RA Engine etc.)(🔒) in ```2021.7~2021.8```
 * [Ewha-Everytime-Everywhere](https://github.com/rrabit42/Cyber_Graduation_Project)(But entire code are in 🔒) in ```2021.1~2021.10```  
 * [별다방](https://github.com/bominjang/Database_TeamProject) in ```2021.6```  
