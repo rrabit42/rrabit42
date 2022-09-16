@@ -1,7 +1,7 @@
 ## Hi~ I'm Seo Young Kim!✨
 
-- 🔭 I’m currently studying 'Computer Science' in RWTH Aachen University :de:
-- 🌱 I’m currently learning [Algorithm](https://github.com/rrabit42/study_algorithm)and [TIL](https://github.com/rrabit42/Today_I_learned).  
+- 🔭 🔭 I’m currently working on a ```Blockchain Development internship```.
+- 🌱 I’m currently learning [Go](https://github.com/rrabit42/study_GO) and [TIL](https://github.com/rrabit42/Today_I_learned).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
 ## Projects🐾  
