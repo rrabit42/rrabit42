@@ -1,7 +1,7 @@
 ## Hi~ I'm Seo Young Kim!✨
 
-- 🔭 🔭 I’m currently working on a ```Blockchain Development internship```.
-- 🌱 I’m currently learning [Go](https://github.com/rrabit42/study_GO) and [TIL](https://github.com/rrabit42/Today_I_learned).  
+- 🔭 I’m currently working on a ```Blockchain Development internship```.
+- 🌱 I’m currently learning [TIL](https://github.com/rrabit42/Today_I_learned), [Go](https://github.com/rrabit42/study_GO), [Solidity](https://github.com/rrabit42/study_Solidity), [Security](https://github.com/rrabit42/study_security) and [Algorithm](https://github.com/rrabit42/study_algorithm).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
 ## Projects🐾  
@@ -34,6 +34,11 @@
 * [TCP/IP Socket in linux](https://github.com/rrabit42/practice_TCP-IP-soket-programming) in ```2019.9```
 * [Bimometric Security](https://github.com/rrabit42/Biometric-Security) in ```2021.6```  
 
+### Blockchain  
+* [Study Solidity](https://github.com/rrabit42/study_Solidity) ~ing🔥  
+* [Study GO](https://github.com/rrabit42/study_GO) ~ing🔥  
+* [Ethereum BlockChain](https://github.com/rrabit42/BlockChain_Ehereum) in ```2020.9```
+
 ### Django API
 * [Django todo list with api](https://github.com/rrabit42/Django-todo-list-web) in ```2020.3```
 * [Django Rest API](https://github.com/rrabit42/Django-RESTfulAPI) in ```2020.3```
@@ -46,7 +51,6 @@
 
 #### Experience
 * [Spring](https://github.com/rrabit42/Spring_practice) in ```2020.12```
-* [Ethereum BlockChain](https://github.com/rrabit42/BlockChain_Ehereum) in ```2020.9```
 * [React + Node](https://github.com/rrabit42/Node.js-React_practice) in ```2020.8```
 * [Node.js, Express](https://github.com/rrabit42/Node.js_practice) in ```2020.7```
 * [Node.js](https://github.com/rrabit42/Node.js_practice2) in ```2020.1```
@@ -54,7 +58,6 @@
 * [React2](https://github.com/rrabit42/React_practice2) in ```2019.5```
 
 #### Basic
-* [GO](https://github.com/rrabit42/study_GO) in in ```2021.2```
 * [Machine Learning/Deep Learning](https://github.com/rrabit42/MachineLearning_practice) in ```2021.3~2021.6```  
 * [Cloud Computing](https://github.com/rrabit42/Cloud-Computing)  in ```2020.9~2020.12```  
 * [remind Web](https://github.com/rrabit42/Web) in ```2020.1```  
