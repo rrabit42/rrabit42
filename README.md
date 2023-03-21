@@ -1,6 +1,6 @@
 ## Hi~ I'm Seo Young Kim!✨
 
-- 🔭 I’m currently working on a ```Blockchain Development internship```.
+- 🔭 I’m currently working as a ```Server Developer in Blockchain field```.
 - 🌱 I’m currently learning [TIL](https://github.com/rrabit42/Today_I_learned), [Go](https://github.com/rrabit42/study_GO), [Solidity](https://github.com/rrabit42/study_Solidity), [Security](https://github.com/rrabit42/study_security) and [Algorithm](https://github.com/rrabit42/study_algorithm).  
 - 😎 I want to become **competent Developer with Security abilities**!
 
